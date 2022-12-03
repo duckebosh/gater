@@ -5,7 +5,7 @@ The all-in-one theme for Google sites.
 
 Gater allows you to access and edit a Google Site with huge ease. I've made it easy and super minimalist!
 
-It adds the following components (0.01):
+It adds the following components (0.02):
 
 ## ~ Fonts
 Raleway and Roboto. I chose two basic and easy to read fonts, that will make your website more modern than ever!
@@ -23,4 +23,9 @@ View a demo version!
 
 https://sites.google.com/view/gatertheme/home
 
-### Gater will be available to DOWNLOAD in 0.02!
+### Gater Green theme download is here! 
+
+~ [Preview](https://sites.google.com/view/gatergreenthemeblank/home)
+
+~ Get the gater theme in green [Download](https://sites.google.com/view/gatertheme/how-to-install?authuser=0)
+
